@@ -32,7 +32,6 @@ const Home: React.FC = () => {
           width="100%"  // Responsivo
           height="315"
           src="https://www.youtube.com/embed/u6t_dMBezSU?autoplay=1&loop=1&playlist=u6t_dMBezSU"
-          frameBorder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
         ></iframe>
